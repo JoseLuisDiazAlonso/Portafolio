@@ -7,7 +7,7 @@ Este es mi portafolio personal, donde muestro algunos de los proyectos en los qu
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
 
-## Tecnologías Utilizadas
+## 🛠 Tecnologías y Herramientas
 
 - **HTML5**: Para la estructura y el contenido del sitio web.
 - **CSS3**: Para el diseño visual y el estilo del sitio web, utilizando Flexbox y Grid Layout para un diseño responsivo.
