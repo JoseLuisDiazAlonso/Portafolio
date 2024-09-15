@@ -2,6 +2,11 @@
 
 Este es mi portafolio personal, donde muestro algunos de los proyectos en los que he trabajado y las habilidades que he desarrollado. El sitio web está construido utilizando **HTML**, **CSS** y **JavaScript** para ofrecer una experiencia interactiva y atractiva.
 
+[![HTML5](https://img.shields.io/badge/HTML5-39E09B?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-1877F2?style=for-the-badge&logo=CSS&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+
+
 ## Tecnologías Utilizadas
 
 - **HTML5**: Para la estructura y el contenido del sitio web.
@@ -15,10 +20,3 @@ Este es mi portafolio personal, donde muestro algunos de los proyectos en los qu
 - **Sobre mí**: Una sección donde detallo mi experiencia, educación y habilidades técnicas.
 - **Formulario de contacto**: Un formulario simple que permite a los visitantes enviarme un mensaje.
 
-## Instalación y Uso
-
-Para clonar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/portafolio-personal.git
